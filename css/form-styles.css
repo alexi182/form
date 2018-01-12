@@ -1,0 +1,78 @@
+
+@font-face {
+   font-family: "MyriadProCondRegular";
+   src: url("../fonts/MyriadProCondRegular/MyriadProCondRegular.eot");
+   src: url("../fonts/MyriadProCondRegular/MyriadProCondRegular.eot?#iefix")format("embedded-opentype"),
+   url("../fonts/MyriadProCondRegular/MyriadProCondRegular.woff") format("woff"),
+   url("../fonts/MyriadProCondRegular/MyriadProCondRegular.ttf") format("truetype");
+   font-style: normal;
+   font-weight: normal;
+}
+
+.title-content-start {
+   font-family: 'MyriadProCondRegular';
+}
+
+.form-send {
+   border: 1px solid #c1cad4;
+   box-shadow: 0 0 10px #ccc inset;
+   font-size: 12px;
+   margin-left: 50px;
+   margin-right: 22px;
+   padding: 20px;
+}
+
+.form-notice {
+   margin-bottom: 20px;
+}
+
+.table-row {
+   margin-bottom: 10px;
+}
+
+.table-row .form-input {
+   background: url(/images/sel-button.png) no-repeat scroll right center #fff;
+   border: 1px solid #0088bd;
+   color: #074065;
+   font-family: Tahoma;
+   font-size: 14px;
+   height: 27px;
+   width: 100%;
+   padding: 0 10px;
+   -webkit-appearance: none;
+   box-sizing: border-box;
+}
+
+.send-letter {
+   background: #f88602;
+   border: none;
+   padding: 5px 10px;
+   color: #ffffff;
+   text-transform: uppercase;
+   cursor: pointer;
+}
+
+.table-row-button {
+   margin-top: 20px;
+   text-align: center;
+}
+
+.table-area {
+   border: 1px solid #0088bd;
+   padding: 5px 10px;
+   width: 100%;
+   box-sizing: border-box;
+   resize: none;
+   font-family: Tahoma;
+   font-size: 14px;
+}
+
+.form-checkbox {
+   position: relative;
+   top: 2px;
+}
+
+.send-letter {
+   font-family: 'MyriadProCondRegular';
+   font-size: 17px;
+}
